@@ -1,34 +1,3 @@
 {
-  "commands": [
-    "Clear C3",
-    "Clear A6",
-    "Flag C4",
-    "Flag D3",
-    "Clear D4",
-    "Clear C5",
-    "Clear D5",
-    "Clear E5",
-    "Flag F5",
-    "Clear G5",
-    "Flag C6",
-    "Clear C7",
-    "Clear D6",
-    "Clear E6",
-    "Flag F6",
-    "Clear C8",
-    "Clear D8",
-    "Clear E8",
-    "Flag F7",
-    "Clear F8",
-    "Flag E7",
-    "Clear D7",
-    "Flag B8",
-    "Clear A8",
-    "Clear G7",
-    "Clear G8",
-    "Clear G6",
-    "Clear H6",
-    "Clear H7",
-    "Clear H8"
-  ]
+  "commands": []
 }
